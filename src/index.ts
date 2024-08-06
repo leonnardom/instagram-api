@@ -53,8 +53,7 @@ async function fetchInstagramData(username: string): Promise<any[]> {
 async function fetchAllMedia(username: string): Promise<any[]> {
   let media: any[] = [];
 
-  let hash =
-    'QVFDbGVxUHhHUV9UeWNDZC12ZmJPVndFVGJCQXg4WGZCWnJhS29MTHRobUZrSUZ0eGNBTG5PMVlqamxSX2ZDN3B6MUExaER5eGtpTHExVjdpZmFwWWs5Mg==';
+  let hash = 'your_hash';
 
   let retryCount = 0;
 
