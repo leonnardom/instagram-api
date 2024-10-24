@@ -45,7 +45,7 @@ Installation
 
 Clone the repository and install the dependencies:
 
-    git clone https://github.com/your-repo/instagram-profile-scraper.git
+    git clone https://github.com/leonnardom/instagram-api.git
     cd instagram-profile-scraper
     npm install
         
